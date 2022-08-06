@@ -513,9 +513,9 @@ body[data-state="project"] .sound-on-off, body[data-state="project"] .scroll-arr
   body[data-state="who"] .preloader-shield .logo-shield li::after {
     background-color: #96ffca; }
   body[data-state="what"] .preloader-shield .logo-shield li::after {
-    background-color: #fff55a; }
+    background-color: #F8E3E0; }
   body[data-state="work"] .preloader-shield .logo-shield li::after {
-    background-color: #fbe10f; }
+    background-color: #F8E3E0; }
   body[data-state="project"] .preloader-shield .logo-shield li::before {
     background-color: #fff; }
   body[data-state="project"] .preloader-shield .logo-shield li::after {
@@ -643,7 +643,7 @@ body[data-state="project"] .sound-on-off, body[data-state="project"] .scroll-arr
     transform: scaleX(1.2) scaleY(1.2);
     z-index: 0; }
     body[data-state="intro"] .mob-nav::before {
-      background-color: #ffd42d; }
+      background-color: #F8E3E0; }
     body[data-state="who"] .mob-nav::before {
       background-color: #1544c0; }
     body[data-state="what"] .mob-nav::before {
@@ -781,7 +781,7 @@ body[data-state="project"] .sound-on-off, body[data-state="project"] .scroll-arr
 .page-bg[data-active="off"] .horizon-bg {
   opacity: 0; }
 .page-bg li:nth-child(1) {
-  background-color: #ffd42d; }
+  background-color: #F8E3E0; }
   .page-bg li:nth-child(1) .horizon-bg {
     background: url("../img/bg/horizon-intro.jpg") no-repeat center center/cover; }
 .page-bg li:nth-child(2) {
