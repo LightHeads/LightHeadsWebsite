@@ -5926,5 +5926,11 @@ section.profile-section[data-active="off"] .profile-figure div {
     transform: translateY(0px); } }
 
 
-
+    .navlogo {
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 7px;
+      left: -800px;
+    }
 /*# sourceMappingURL=main.css.map */
