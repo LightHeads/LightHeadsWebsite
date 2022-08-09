@@ -3854,15 +3854,29 @@ section.profile-section[data-active="off"] .profile-figure div {
     section.profile-section .mob-leigh {
       background: url("../img/figures/mob/tinified/leigh-mob.png") no-repeat center bottom/380px; } }
 
-.jon-profile-figure div:nth-child(1) {
-  background: url("../img/figures/tinified/jon-exploded-face-on-1.png") no-repeat center center/100%; }
-.jon-profile-figure div:nth-child(2) {
-  background: url("../img/figures/tinified/jon-exploded-face-on-2.png") no-repeat center center/100%; }
-.jon-profile-figure div:nth-child(3) {
-  background: url("../img/figures/tinified/jon-exploded-face-on-3.png") no-repeat center center/100%; }
-.jon-profile-figure div:nth-child(4) {
-  background: url("../img/figures/tinified/jon-exploded-face-on-4.png") no-repeat center center/100%; }
 
+/* Who Section Figures       */
+/* Abhinand Figure */
+.abhinand-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/abhinandraj.png") no-repeat center center/100%; }
+/* Kaamil Figure  */
+.kaamil-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/kaamilmirza.png") no-repeat center center/100%; }
+/* Nikil  */
+.nikil-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/nikil.png") no-repeat center center/100%; }
+/* Tanishq */
+.tanishq-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/tanishq.png") no-repeat center center/100%; }
+  /* Abhiram */
+.abhiram-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/abhiram.png") no-repeat center center/100%; }
+  /* fardeen  */
+.fardeen-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/fardeen.png") no-repeat center center/100%; }
+  /* jaspreet  */
+.jaspreet-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/jaspreet.png") no-repeat center center/100%; }
 .leigh-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/leigh-exploded-face-on-1.png") no-repeat center center/100%; }
 .leigh-profile-figure div:nth-child(2) {
@@ -5926,5 +5940,11 @@ section.profile-section[data-active="off"] .profile-figure div {
     transform: translateY(0px); } }
 
 
-
+    .navlogo {
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 7px;
+      left: -800px;
+    }
 /*# sourceMappingURL=main.css.map */
