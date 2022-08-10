@@ -4636,7 +4636,7 @@ footer .toyfight-logo-flat {
   transition: 0.65s cubic-bezier(0.52, 0.01, 0.16, 1) 0.2s;
 }
 footer .footer-footer {
-  width: 94%;
+  width: 100%;
   background-color: #fff;
   padding: 15px 3% 16px;
   -webkit-transition: 0.65s cubic-bezier(0.52, 0.01, 0.16, 1) 0.73s;
@@ -8431,7 +8431,7 @@ html.safari-browser .corner-project-back span.text {
   }
   footer .footer-footer {
     position: relative;
-    width: 80%;
+    width: 100%;
     padding: 24px 10% 24px;
     -webkit-transform: translateY(0) !important;
     -moz-transform: translateY(0) !important;
