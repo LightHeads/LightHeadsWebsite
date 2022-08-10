@@ -1,0 +1,11 @@
+Tanishq:hover {
+    position: relative;
+}
+Tanishq:hover:after {
+    content: url(./tanishq.png); /* no need for qoutes */
+    display: block;
+    
+    left: 123px; /* change this value to one that suits you */
+    top: 56px; /* change this value to one that suits you */
+    z-index: 3;
+}
