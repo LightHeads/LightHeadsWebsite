@@ -636,6 +636,7 @@ a.arrow-link:hover span::before {
 .box-arrow-link .box-text {
   padding: 0 16px;
   line-height: 36px;
+  font-weight: bolder;
 }
 .box-arrow-link .box-arrow-1,
 .box-arrow-link .box-arrow-2 {
@@ -2478,7 +2479,7 @@ nav,
 }
 
 .intro-content h1 {
-  color: #ffff;
+  color: #1A132F;
 }
 .intro-content h3,
 .intro-content h2,
@@ -8622,3 +8623,4 @@ html.safari-browser .corner-project-back span.text {
   left: -800px;
 }
 /*# sourceMappingURL=main.css.map */
+
