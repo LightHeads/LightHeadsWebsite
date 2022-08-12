@@ -951,6 +951,9 @@ a.arrow-link:hover span::before {
 .icon.icon-linkedin::after {
   background: url("../img/ui/icon-linkedin.svg") no-repeat center center/100%;
 }
+.icon.icon-github::after {
+  background: url("../img/ui/icon-github.svg") no-repeat center center/100%;
+}
 .icon:hover::before {
   opacity: 1;
   -webkit-transition: 0.01s 0s;
