@@ -5739,12 +5739,19 @@ section.profile-section[data-active="off"] .profile-figure div {
 .work-project-content svg {
   height: 36px;
 }
-@media only screen and (min-width: 375px) {
+@media only screen and (min-width: 260px) {
   .work-project-content svg {
-    height: 40px;
+    height: 20px;
+    width: auto;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 375px) {
+  .work-project-content svg {
+    height: 30px;
+    width: auto;
+  }
+}
+@media only screen and (min-width: 769px) {
   .work-project-content svg {
     height: 80px;
   }
