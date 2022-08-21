@@ -5556,6 +5556,14 @@ section.profile-section[data-active="off"] .profile-figure div {
     background: url("../img/figures/mob/tinified/tanishq-mob.png") no-repeat
       center bottom/380px;
   }
+  section.profile-section .mob-arun {
+    background: url("../img/figures/mob/tinified/tanishq-mob.png") no-repeat
+      center bottom/380px;
+  }
+  section.profile-section .mob-venkatesh {
+    background: url("../img/figures/mob/tinified/tanishq-mob.png") no-repeat
+      center bottom/380px;
+  }
 }
 
 /* Who Section Figures       */
@@ -5569,29 +5577,39 @@ section.profile-section[data-active="off"] .profile-figure div {
   background: url("../img/figures/tinified/kaamilmirza.png") no-repeat center
     center/100%;
 }
-/* Nikil  */
+/* Nikil Figure*/
 .nikil-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/nikil.png") no-repeat center
     center/100%;
 }
-/* Tanishq */
+/* Tanishq Figure*/
 .tanishq-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/tanishq.png") no-repeat center
     center/100%;
 }
-/* Abhiram */
+/* Abhiram Figure*/
 .abhiram-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/abhiram.png") no-repeat center
     center/100%;
 }
-/* fardeen  */
+/* fardeen  Figure*/
 .fardeen-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/fardeen.png") no-repeat center
     center/100%;
 }
-/* jaspreet  */
+/* jaspreet  Figure*/
 .jaspreet-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/jaspreet.png") no-repeat center
+    center/100%;
+}
+/* arun  Figure*/
+.arun-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/arun.png") no-repeat center
+    center/100%;
+}
+/* venkatesh  Figure*/
+.venkatesh-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/venkatesh.png") no-repeat center
     center/100%;
 }
 .leigh-profile-figure div:nth-child(1) {
