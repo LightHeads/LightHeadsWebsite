@@ -5143,7 +5143,7 @@ footer.condensed[data-active="on"] .footer-footer {
     top: 5.25vw;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .intro-content .home-thumb {
     display: none;
   }
@@ -5153,7 +5153,7 @@ footer.condensed[data-active="on"] .footer-footer {
   top: auto;
   left: auto;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .intro-content .mobile-thumb {
     display: block;
   }
@@ -5556,6 +5556,14 @@ section.profile-section[data-active="off"] .profile-figure div {
     background: url("../img/figures/mob/tinified/tanishq-mob.png") no-repeat
       center bottom/380px;
   }
+  section.profile-section .mob-arun {
+    background: url("../img/figures/mob/tinified/arun-mob.png") no-repeat
+      center bottom/380px;
+  }
+  section.profile-section .mob-venkatesh {
+    background: url("../img/figures/mob/tinified/venkatesh-mob.png") no-repeat
+      center bottom/380px;
+  }
 }
 
 /* Who Section Figures       */
@@ -5569,29 +5577,39 @@ section.profile-section[data-active="off"] .profile-figure div {
   background: url("../img/figures/tinified/kaamilmirza.png") no-repeat center
     center/100%;
 }
-/* Nikil  */
+/* Nikil Figure*/
 .nikil-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/nikil.png") no-repeat center
     center/100%;
 }
-/* Tanishq */
+/* Tanishq Figure*/
 .tanishq-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/tanishq.png") no-repeat center
     center/100%;
 }
-/* Abhiram */
+/* Abhiram Figure*/
 .abhiram-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/abhiram.png") no-repeat center
     center/100%;
 }
-/* fardeen  */
+/* fardeen  Figure*/
 .fardeen-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/fardeen.png") no-repeat center
     center/100%;
 }
-/* jaspreet  */
+/* jaspreet  Figure*/
 .jaspreet-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/jaspreet.png") no-repeat center
+    center/100%;
+}
+/* arun  Figure*/
+.arun-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/arun.png") no-repeat center
+    center/100%;
+}
+/* venkatesh  Figure*/
+.venkatesh-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/venkatesh.png") no-repeat center
     center/100%;
 }
 .leigh-profile-figure div:nth-child(1) {
@@ -5739,24 +5757,31 @@ section.profile-section[data-active="off"] .profile-figure div {
 .work-project-content svg {
   height: 36px;
 }
-@media only screen and (min-width: 375px) {
+@media only screen and (min-width: 260px) {
   .work-project-content svg {
-    height: 40px;
+    height: 20px;
+    width: auto;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 375px) {
+  .work-project-content svg {
+    height: 30px;
+    width: auto;
+  }
+}
+@media only screen and (min-width: 769px) {
   .work-project-content svg {
     height: 80px;
   }
 }
 @media only screen and (min-width: 1024px) {
   .work-project-content svg {
-    height: 120px;
+    height: 100px;
   }
 }
 @media only screen and (min-width: 1240px) {
   .work-project-content svg {
-    height: 161px;
+    height: 120px;
   }
 }
 .work-project-content h4 {
@@ -8374,7 +8399,7 @@ html.safari-browser .corner-project-back span.text {
     transform: scale(0.62);
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   h3:not(.no-line) {
     margin-bottom: 3em;
   }
