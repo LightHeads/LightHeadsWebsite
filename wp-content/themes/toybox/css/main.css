@@ -5776,12 +5776,12 @@ section.profile-section[data-active="off"] .profile-figure div {
 }
 @media only screen and (min-width: 1024px) {
   .work-project-content svg {
-    height: 100px;
+    height: 120px;
   }
 }
 @media only screen and (min-width: 1240px) {
   .work-project-content svg {
-    height: 120px;
+    height: 161px;
   }
 }
 .work-project-content h4 {
