@@ -5143,7 +5143,7 @@ footer.condensed[data-active="on"] .footer-footer {
     top: 5.25vw;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .intro-content .home-thumb {
     display: none;
   }
@@ -5153,7 +5153,7 @@ footer.condensed[data-active="on"] .footer-footer {
   top: auto;
   left: auto;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .intro-content .mobile-thumb {
     display: block;
   }
@@ -5557,11 +5557,11 @@ section.profile-section[data-active="off"] .profile-figure div {
       center bottom/380px;
   }
   section.profile-section .mob-arun {
-    background: url("../img/figures/mob/tinified/tanishq-mob.png") no-repeat
+    background: url("../img/figures/mob/tinified/arun-mob.png") no-repeat
       center bottom/380px;
   }
   section.profile-section .mob-venkatesh {
-    background: url("../img/figures/mob/tinified/tanishq-mob.png") no-repeat
+    background: url("../img/figures/mob/tinified/venkatesh-mob.png") no-repeat
       center bottom/380px;
   }
 }
@@ -5776,12 +5776,12 @@ section.profile-section[data-active="off"] .profile-figure div {
 }
 @media only screen and (min-width: 1024px) {
   .work-project-content svg {
-    height: 120px;
+    height: 100px;
   }
 }
 @media only screen and (min-width: 1240px) {
   .work-project-content svg {
-    height: 161px;
+    height: 120px;
   }
 }
 .work-project-content h4 {
@@ -8399,7 +8399,7 @@ html.safari-browser .corner-project-back span.text {
     transform: scale(0.62);
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   h3:not(.no-line) {
     margin-bottom: 3em;
   }
