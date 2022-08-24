@@ -637,6 +637,7 @@ a.arrow-link:hover span::before {
   padding: 0 16px;
   line-height: 36px;
   font-weight: bolder;
+  color: #1A132F;
 }
 .box-arrow-link .box-arrow-1,
 .box-arrow-link .box-arrow-2 {
@@ -5781,7 +5782,7 @@ section.profile-section[data-active="off"] .profile-figure div {
 }
 @media only screen and (min-width: 1240px) {
   .work-project-content svg {
-    height: 161px;
+    height: 120px;
   }
 }
 .work-project-content h4 {
