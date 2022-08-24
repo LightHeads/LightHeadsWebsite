@@ -523,7 +523,7 @@ body[data-state="project"] .sound-on-off, body[data-state="project"] .scroll-arr
   body[data-state="project"] .preloader-shield .tf {
     opacity: 0.78; }
     body[data-state="project"] .preloader-shield .tf::before {
-      background: url("../img/ui/logo/tf-black.svg") no-repeat center center/100%; }
+      background: url("../img/ui/logo/android-chrome-512x512.png") no-repeat center center/100%; }
 
 .main-nav {
   -webkit-transition: 0.75s cubic-bezier(0.52, 0.01, 0.16, 1) 0.5s;
