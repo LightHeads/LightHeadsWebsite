@@ -5565,6 +5565,10 @@ section.profile-section[data-active="off"] .profile-figure div {
     background: url("../img/figures/mob/tinified/venkatesh-mob.png") no-repeat
       center bottom/380px;
   }
+  section.profile-section .mob-nipun {
+    background: url("../img/figures/mob/tinified/nipun-mob.png") no-repeat
+      center bottom/380px;
+  }
 }
 
 /* Who Section Figures       */
@@ -5611,6 +5615,11 @@ section.profile-section[data-active="off"] .profile-figure div {
 /* venkatesh  Figure*/
 .venkatesh-profile-figure div:nth-child(1) {
   background: url("../img/figures/tinified/venkatesh.png") no-repeat center
+    center/100%;
+}
+/* nipun figure*/
+.nipun-profile-figure div:nth-child(1) {
+  background: url("../img/figures/tinified/nipun.png") no-repeat center
     center/100%;
 }
 .leigh-profile-figure div:nth-child(1) {
